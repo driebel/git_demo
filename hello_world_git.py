@@ -9,5 +9,6 @@ Created on Wed Jun  6 18:19:46 2018
 def hello_world_git():
     print("I'm on GIT!")
     
-if __name___ == "__main__":
+if __name__ == "__main__":
     print(hello_world_git())
+    
